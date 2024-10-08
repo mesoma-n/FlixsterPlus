@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-
+https://github.com/mesoma-n/FlixsterPlus/blob/main/gifForFlixster%2B.gif
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
